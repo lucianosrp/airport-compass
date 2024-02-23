@@ -1,0 +1,40 @@
+
+font.family: Roboto
+
+xtick.direction: out
+ytick.direction: out
+axes.axisbelow: True
+axes.grid: True
+grid.linestyle: -
+lines.solid_capstyle: round
+axes.linewidth: 0
+xtick.major.size: 0
+ytick.major.size: 0
+xtick.minor.size: 0
+ytick.minor.size: 0
+
+#FONT
+font.size: 12.5
+
+#AXES
+axes.prop_cycle: cycler('color',['003f5c', 'f95d6a', 'ffa600','2f4b7c','665191','a05195','d45087','ff7c43'])
+
+axes.labelsize: medium
+axes.edgecolor: gray
+axes.titlesize: large
+
+image.cmap: cool
+
+# font color: very light grey
+text.color: 0.9
+axes.labelcolor: 0.9
+xtick.color: 0.9
+ytick.color: 0.9
+
+# background: bluish dark grey
+figure.facecolor: 171C30
+axes.facecolor: 171C30
+savefig.facecolor: 171C30
+
+# grid: bluish dark grey, slightly lighter than background
+grid.color: 2A3459
