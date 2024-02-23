@@ -18,7 +18,7 @@ Shortly after seeing this chart I immediately though of replicating this view bu
 
 This repository is using two major open-source datasets:
 
- - The airlines routes data comes from [@jpatokal](https://github.com/jpatokal/https://github.com/jpatokal/openflights)'s OpenFlights repository
+ - The airlines routes data comes from [@jpatokal](https://github.com/jpatokal/openflights)'s OpenFlights repository
 
  - The airports data is from [@davidmegginson](https://github.com/davidmegginson/ourairports-data/)'s OurAirports repository
 
