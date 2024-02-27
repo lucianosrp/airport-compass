@@ -9,10 +9,10 @@
 
 This figure represents the distribution of the orientation of every major street of a city.
 
-I like how it gives a quick representation of each cities'
+I like how it gives a quick representation of each city's
 layout and how evident are the various levels of entropy.
 
-Shortly after seeing this chart I immediately though of replicating this view but for airports' traffic worldwide.
+Shortly after seeing this chart I immediately thought of replicating this view but for airports' traffic worldwide.
 
 ## Sources
 
